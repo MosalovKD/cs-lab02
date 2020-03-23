@@ -13,5 +13,9 @@ int main()
     {
         cout << a;
     }
+    else
+    {
+        cout << b;
+    }
     return 0;
 }
